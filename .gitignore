@@ -1,0 +1,4 @@
+phpmyadmin/
+nbproject/
+index.lighttpd.html
+*.db
